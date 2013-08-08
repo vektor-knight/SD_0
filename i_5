@@ -1,0 +1,18 @@
+ON CYBERTRONIAN MECHANICS AND FACTION CHOOSING      # THIS ONE WAS FOR FUN
+
+0. UnionFS divides users into good and bad data sets
+1. Assuming that Plato was right, a computer system can recognize these sets on the basis of LOGOS
+  i. en.wikipedia.org/wiki/Logos‎
+2. UnionFS implements an intrusion detection system embedded in a virtual file system, which is called 'sandboxing'
+  i. www.unionfs.org/‎
+3. Fan-out filesystems can access N > 0 different branches on a tree structure directly
+4. If (0) holds, then we can partition a maximal entropy well into 'good' and 'bad' traffic nodules
+  i. An example of an 'absolute good' -> tech start-up companies doing FOSS bioinformatics research
+  ii. An example of an 'absolute bad' -> child pornography rings
+  iii. The propensity for a computable system to achieve harmonic oscillation in an embedded system relies on
+  the motives and initial assumption space of the observer, whether its a human controller or a series 
+  of (multi)-agents controlling another series of (multi)-agents
+  iv. If a filesystem detects a binary blob within the intersection of these good/bad collections, they are
+  reclassified as a data leakage, defined as: [virtual] file-system ∈ operatingSystem
+  
+  
