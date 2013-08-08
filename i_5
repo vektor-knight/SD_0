@@ -14,5 +14,3 @@ ON CYBERTRONIAN MECHANICS AND FACTION CHOOSING      # THIS ONE WAS FOR FUN
   of (multi)-agents controlling another series of (multi)-agents
   iv. If a filesystem detects a binary blob within the intersection of these good/bad collections, they are
   reclassified as a data leakage, defined as: [virtual] file-system ∈ operatingSystem
-  
-  
