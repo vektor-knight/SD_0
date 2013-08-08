@@ -1,0 +1,26 @@
+# AN EXTENDED ARCHITECTURE FOR HARDWARE/SOFTWARE INTERFACING BASED ON A GNU/GPL ARCHITECTURE
+# REQUIRED READING : en.wikipedia.org/wiki/Computer_hardware
+
+Assumptions:
+0. A value of "True" can only obtain if there exists a value of "False"
+1. If (0) is true, then the converse is true
+2. (0)-(1) -> (T <-> F)                     # Have to check the logic on this one
+3. Map(T <- 1, F <- 0)
+4. [agent(a) ⊆ continuum(x)] ⊆ U            # U is a maximal entropy well denoting the Internet
+
+interface(x):
+0. makeParallel() <- chooseFaction[Apache, Google, Yahoo, ...]
+1. allocateResources() <- dataStructure[virtualization, networking, client/server, mailing lists, simulation]
+2. trainBenchmark() <- {makeParallel(), allocateResources()}
+3. operatingSystem(o) <- {makeParallel(), allocateResources(), trainBenchmark()}
+4. updateRepositories           # However, if you use a FOSS web crawler, you get this 'for free'
+
+
+# On the basis of interface(x)
+Feed-forward loop: [{interface(x) <-link-> hardware/software ∋ operatingSystem(z) <-link-> interface(x)} <-link-> Internet]
+  i. Loop forever on N-order cybernetics, where the recursion is denoted by the patience of the human observer
+  willing to solve his or her maze problem
+  ii. Have a design before you jump into the magic square, lest you think yourself some sort of Shanghai Steve
+  iii. A feed-forward loop actually denotes conditions for life
+  iv. When interfaced properly, you never have to update your software/hardware again
+  
