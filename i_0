@@ -1,0 +1,23 @@
+ON THE BASIS OF A LEXICAL PARSER WRITTEN IN C (GNU/GPL) AND REPRESENTATION-FREE PROPOSITIONAL CALCULI
+
+# I denote a propositional landscape with the metaphor of Waddington's epigenetic landscape
+# Reference: en.wikipedia.org/wiki/Epigenetic_landscape‎; en.wikipedia.org/wiki/Conrad_Hal_Waddington‎
+# Partition a propositional landscape N into a boundless set of training groups, which denotes an N-body "logic ghost"
+
+trainingGroup(i):                             # i is an integer
+  p(i_0)                                      # Write your statements in natural language ("string type")
+  p(i_1)
+  p(i_2)
+  p(i_3)
+  ....
+  p(i_N)
+  
+trainingCollection(i_0, j_1,...,k_N):         # j is an integer overloading trainingGroup(i_0 -> i_N)
+  j_0[trainingGroup(i_0), trainingGroup(i_1),...,trainingGroup(i_N)]
+  j_1[trainingGroup(j_0), trainingGroup(j_1),...,trainingGroup(j_N)]
+  ....
+  j_0[trainingGroup(k_0), trainingGroup(k_1),...,trainingGroup(k_N)]
+
+
+# When a trainingCollection has been defined, you may begin to notice that after x-iterations, new trainingSets will
+# begin to define themselves after some entropyLevel(e) has been reached by your computer
