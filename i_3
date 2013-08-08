@@ -17,5 +17,3 @@ C-3P0 who can speak over 9,000 languages, provided that he or she is connected t
         iii. merge(P(0), P(1), P(2), P(3)) : cardinality is 4
         iv. big-Oh(iii) is logarithmic and task closure converts useful work into quadratic growth with minimal 
         network consumption
-        
-        
