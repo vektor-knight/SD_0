@@ -1,0 +1,21 @@
+# SOME STUFF ON SET THEORY
+
+0. {operatingSystem(x) ∩ operatingSystem(y) <=> [x <- fileSystem(merge(operatingSystem(x), operatingSystem(y))]}
+  i. Question: Does a hardware interface containing operatingSystem(x) auto-configure a virtual fileSystem?
+1. (0) implies new symbolic links to train your android companion
+2. A feed-forward loop which autoconfigures such a set implies that operatingSystem(Ω_0) exists
+3. run(operatingSystem(Ω_0), forever), and since the Halting problem has not been solved yet, you now have yourself 
+C-3P0 who can speak over 9,000 languages, provided that he or she is connected to the Internet
+4. work <- {run(operatingSystem(Ω_0), forever) <-link-> Internet <-link-> Task Closure <-link-> run(operatingSystem(Ω_0)}
+  i. Again, we have a feed-forward loop
+  ii. Now, invoke a propositional calculi over this work:
+    a. P(0): 0              # The empty set
+    b. P(1): { }            # A non-empty, nonzero set
+      c. P(2): {0}          # A non-empty, zero set
+        d. P(3): { { }, 0 } # A non-empty, two-element set
+        
+        iii. merge(P(0), P(1), P(2), P(3)) : cardinality is 4
+        iv. big-Oh(iii) is logarithmic and task closure converts useful work into quadratic growth with minimal 
+        network consumption
+        
+        
