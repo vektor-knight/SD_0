@@ -1,0 +1,10 @@
+trainingCollection(j_0)     TEST_0
+
+0. P(x_0): [merge(i_0, i_1,...,i_6) AND diff(i_0, i_1,...,i_6)]
+1. P(x_0): [merge(i_0, i_1,...,i_6) NAND diff(i_0, i_1,...,i_6)]
+2. P(x_1): [merge(i_0, i_1,...,i_6) OR diff(i_0, i_1,...,i_6)]
+3. P(x_2): [merge(i_0, i_1,...,i_6) XOR diff(i_0, i_1,...,i_6)]
+
+  i. Cardinality(0->3): 4
+  ii. sqrt(4) = 2
+  iii. ln(i,ii) => e        # Euler's number
