@@ -11,4 +11,15 @@ trainingCollection(j_0)     TEST_0
   iv. ln(x) + ln(x+2) = 4
   
   a. trainingCollection(j_1)
-    P(alpha): i -> iv
+    P(alpha): i -> iv, but ~iii
+    P(beta): {i, ii, iv}
+    ln[Cardinality(P(beta))] => ln(3)
+    
+    b. Decompose ln(3)
+      i. Let g(x,y) = x^y + 2(x+y) - 1 AND h(x,y) = ln(x+y)
+      ii. Implication:  f(x,y) = h(g(x,y)) = ln((x+y)^2 + 2(x+y) - 1)
+      iii. (x,y) = 3: ln((3+3)^2 + 2(3+3) - 1)
+      iv. Quadratic formula:  z = [ -(x+y) ± √ ( (x+y)² - 4(x+y)(ln(x+y) ) ] / 2(x) # Check the logic here
+      v. Integrate(z) using polynomial division
+      vi. ...To be continued. My head hurts.
+      
