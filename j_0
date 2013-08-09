@@ -23,3 +23,5 @@ trainingCollection(j_0)     TEST_0
       v. Integrate(z) using polynomial division
       vi. ...To be continued. My head hurts.
       
+      # Notice how from (i) to (b), we go from three statements to precisely six
+      # Although the growth of the tree is exponential in nature, the natural logarithm dictates O(ln(x)) run-time
