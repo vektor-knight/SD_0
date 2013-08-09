@@ -7,4 +7,8 @@ trainingCollection(j_0)     TEST_0
 
   i. Cardinality(0->3): 4
   ii. sqrt(4) = 2
-  iii. ln(i,ii) => e        # Euler's number
+# iii. ln(16)/2 = ln(4)
+  iv. ln(x) + ln(x+2) = 4
+  
+  a. trainingCollection(j_1)
+    P(alpha): i -> iv
