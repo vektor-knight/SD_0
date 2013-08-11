@@ -1,0 +1,32 @@
+SARTAJ HUNDAL ON BEHALF OF (C) VEKTOR-KNIGHT    10 AUG. '13
+
+# My aim is not to answer the question of whether N exists, but wrok off the assumption
+# that N is boundless. Suppose that there are no new theorems or research and reverse-
+# engineer higher order logics from mental content (structures)
+
+# Claim: The formation of new structures depends on the form of mind (Descartes)
+
+struct {
+  x is an integer
+  y is a group
+  z < ln(x,y) # Coordinate of x and y
+  }
+  
+  define {
+  z <> struct(hyperGroup = <z(0),z(1),...,z(N)>)  # N approaching infinity
+  }
+  
+  # Question: How do we relate the natural logarithm of a change in z to Heisenberg's Uncertainty Principle?
+  define {
+  alpha = [a(delta_t) <> ln(delta_z) P delta_x*delta_p] ELEMENT OF z  # delta_t is change in time
+  } # Iterate over N number of alpha, N is a continuum
+  
+  # As alpha approaches 360 degrees, the phi'th root of 360 represents a straight line <http://www.wolframalpha.com/input/?i=phi+root+of+360&dataset=>
+  #   Definine a structure first (ie. point, line, circle, square...) allows us to merely
+  # map components of the structure as points on a 2D plane and derive one-dimensional data structures 
+  # Since we cannot prove that a line will end over a given number set, I claim that a transform:
+  
+  phi[a(0),a(1),...,a(N)]
+  
+  # actually denotes the consistency of a limitless Planck's constant
+  # As well, a series of pointers between every change in element z is consistent with Eigen's hypercycle
