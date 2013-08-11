@@ -1,0 +1,11 @@
+SARTAJ HUNDAL ON BEHALF OF (C) VEKTOR-KNIGHT    10 AUG. '13
+
+# Hypercycle bubbling forth to Hyperplanck
+
+struct {
+  f(e) = 1 ELEMENT OF phi
+  phi_0 < phi[a(0) to a(n)]
+  phi_1 < phi[b(0) to b(n)]
+  ...
+  phi_n < phi[z(0) to z(n)]
+  } # call it hyperPlanck
