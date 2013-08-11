@@ -7,5 +7,5 @@ struct {
   phi_0 < phi[a(0) to a(n)]
   phi_1 < phi[b(0) to b(n)]
   ...
-  phi_n < phi[z(0) to z(n)]
-  } # call it hyperPlanck
+  phi_m < phi[z(0) to z(n)]
+  } # call it hyperPlanck ; n to infinity
