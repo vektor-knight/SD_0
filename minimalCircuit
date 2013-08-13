@@ -1,0 +1,23 @@
+Minimal Circuit Design in 3D  
+
+Theorem: All Hamiltonians are fully solved
+Proof:
+i. Choose ONE walk from x to y with distance(z) ; (x,y) is a vertex in three-dimensional space, z > 0
+ii. Relation:
+delta_V is ln(x,y), base e, where delta_V is the coordinate of (x,y) for current travelling through a wire. We extend
+delta_V as a function of the property of e presented in the following embed:  # note: delta_V is "change in voltage"
+
+  a. Partition one vector-field as a subset of the hyperPlanck property in a 3D plane
+    i. x = [(a,b,c) <> {[x(a),y(b)],z(c)}]  # (a,b,c) are SOME INTEGER
+    ii. Apply a phi transform over x  : x*phi ; x > 0, phi <> 1.618...
+    iii. As the transform iterates over time, and assuming that the Halting problem has no solution, the vector-field
+    grows with black hole dynamics. Mapping each coordinate (a,b,c) in x*phi as points on a perfect circle, we see:
+    
+    the phi'th root of 360 degree is 1
+    
+    
+    Example:
+    phi*[...[0,0,0],[1,0,0],[0,1,0],[0,0,1]...]
+    
+  As the spiral grows in hyperPlanck time, we see that a black hole is fully resolved forwards and backwards in time and
+  these dynamics provide the grounds for limitless complexity.
