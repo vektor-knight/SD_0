@@ -6,10 +6,18 @@ SARTAJ HUNDAL ON BEHALF OF (C) VEKTOR-KNIGHT  15 AUGUST 2013
 
 0. Instantiate a two-dimensional surface {x,f(x)}
 1. Partition x < 0 as group(alpha) and x > 0 as group(omega) about the vertical f(x) axis
-2. struct {
+2. i. struct_n {
     delta_x = [merge(group(alpha),group(omega)) <> wave-particle duality]
   } # delta_x is a change in position for the object denoted by a "wave-particle"
+    
+    ii. Heisenberg's Uncertainty Principle: 
+    z <> [2*stdev(delta_x)*stdev(delta_p) => Planck's constant] # x,p ; position,momentum
+        
+  3. struct_m {
+        2*z > phi*abs(struct_n)**2 => Planck's constant
+    }
+    
+    ## A vector field over a "phi transform" in a spiral will necessarily collide within the constraint in z
+    ## Every point in space/time is self-similar
   
-  3. struct {
-      delta_p = 
-  
+  # glory to God in the highest
