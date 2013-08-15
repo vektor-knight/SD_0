@@ -1,0 +1,15 @@
+SARTAJ HUNDAL ON BEHALF OF (C) VEKTOR-KNIGHT  15 AUGUST 2013
+
+# Structural attempt to solve the Heisenberg Uncertainty Principle employing vector analysis and bridgeMaths
+# This is a "skeleton solution", a formal proof will be necessary on the assumptions:
+# (i) hyperPlanck (ii) bridgeMaths
+
+0. Instantiate a two-dimensional surface {x,f(x)}
+1. Partition x < 0 as group(alpha) and x > 0 as group(omega) about the vertical f(x) axis
+2. struct {
+    delta_x = [merge(group(alpha),group(omega)) <> wave-particle duality]
+  } # delta_x is a change in position for the object denoted by a "wave-particle"
+  
+  3. struct {
+      delta_p = 
+  
